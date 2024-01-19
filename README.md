@@ -14,3 +14,5 @@ Culture and history, it's a true work of art.
 ```
 
 Never forget, it's all about the System Prompt! 
+
+![alt text](./assets/japanese_garden.png)
